@@ -1,0 +1,14 @@
+{
+	"name": "odyssey-theme",
+	"version": "1.0.0",
+	"private": false,
+	"scripts": {
+		"dev": "astro dev",
+		"start": "astro dev",
+		"build": "astro build",
+		"preview": "astro preview",
+		"format": "npx prettier -w ."
+	},
+	"devDependencies": {
+	}
+}
