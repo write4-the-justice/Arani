@@ -1,4 +1,5 @@
-<center>Literature Club Website</center>
+# <center>Literature Club Website</center>
+
 ### Local Development
 
 ```bash
